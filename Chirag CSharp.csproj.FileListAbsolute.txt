@@ -1,0 +1,10 @@
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\bin\Debug\Chirag CSharp.exe.config
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\bin\Debug\Chirag CSharp.exe
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\bin\Debug\Chirag CSharp.pdb
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag CSharp.csproj.AssemblyReference.cache
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag_CSharp.Form1.resources
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag_CSharp.Properties.Resources.resources
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag CSharp.csproj.GenerateResource.cache
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag CSharp.csproj.CoreCompileInputs.cache
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag CSharp.exe
+C:\Users\koyan\OneDrive\Desktop\C# project\Chirag CSharp\Chirag CSharp\obj\Debug\Chirag CSharp.pdb
